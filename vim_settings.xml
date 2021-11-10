@@ -1,0 +1,331 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>$image</entry>
+        <entry>product-image-photo</entry>
+        <entry>159</entry>
+        <entry>150</entry>
+        <entry>product-image</entry>
+        <entry>product-im</entry>
+        <entry>$image_width</entry>
+        <entry encoding="base64">XDxQcm9wZXJ0eVR5cGVcPg==</entry>
+        <entry>register</entry>
+        <entry>it</entry>
+        <entry>it_IT</entry>
+        <entry>IT</entry>
+        <entry>Ita</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry>prop</entry>
+        <entry encoding="base64">XDxZWVlZXD4=</entry>
+        <entry encoding="base64">XDxzb3R0b193aGl0ZV9kYXlfb3Blbl9nbGFzc19jdXJ0YWluXD4=</entry>
+        <entry>key</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxzb2xpZFw+</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/linda/app/builds/gemmo/config.ts" timestamp="1636532301974">
+        <mark key="[" line="37" column="111" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1636542522926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/package.json" timestamp="1636530327564">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/code/content-manager/document-data/repository.ts" timestamp="1636531223098">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/builds/ke-showroom/config.ts" timestamp="1636540612038">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="29" column="55" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="29" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/ke-showroom/src/components/popups/popup-form.tsx" timestamp="1636540583997">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/ke-showroom/src/style/popup.scss" timestamp="1636540418571">
+        <mark key="[" line="867" column="31" />
+        <mark key="]" line="867" column="31" />
+        <mark key="^" line="867" column="31" />
+        <mark key="." line="867" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/index.ts" timestamp="1636534286289">
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/tsconfig.fronted.json" timestamp="1636530377448">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact/email/calculations/create-contact-email.ts" timestamp="1636540713569">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="46" />
+        <mark key="^" line="51" column="46" />
+        <mark key="." line="51" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/code/email/service/actions/send-email.ts" timestamp="1636530815701">
+        <mark key="[" line="27" column="6" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1636531080707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/tsconfig.json" timestamp="1636530406040">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/smettintempo/code/smettintempo/index.ts" timestamp="1636534266283">
+        <mark key="[" line="28" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact.ts" timestamp="1636540766400">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/code/content-manager/transport/http/routes.ts" timestamp="1636476317418">
+        <mark key="[" line="296" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/donatoni/code/donatoni-hub/package.json" timestamp="1636476212490">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/cna/code/news/entities/modulistica.ts" timestamp="1636529979457">
+        <mark key="[" line="48" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact/email/actions/send-contact-email.ts" timestamp="1636540760348">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/package.json" timestamp="1636476587695">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/local-php/Dockerfile" />
+      <jump line="106" column="8" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/single-relation/render.tsx" />
+      <jump line="124" column="30" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/index.ts" />
+      <jump line="185" column="5" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/index.ts" />
+      <jump line="186" column="2" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/index.ts" />
+      <jump line="25" column="1" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/types/index.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/types/index.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/types/index.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/types/index.ts" />
+      <jump line="15" column="28" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="16" column="19" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="17" column="15" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="18" column="19" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="19" column="20" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="20" column="17" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="21" column="22" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="22" column="16" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="23" column="17" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="24" column="31" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="25" column="34" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="26" column="26" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="27" column="22" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="28" column="27" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="29" column="27" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="30" column="24" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/utils/refine-json-to-client.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/linda-github/app/code/validation/index.ts" />
+      <jump line="47" column="2" filename="$USER_HOME$/Projects/linda-github/app/code/validation/index.ts" />
+      <jump line="37" column="158" filename="$USER_HOME$/Projects/linda-github/app/code/validation/index.ts" />
+      <jump line="93" column="5" filename="$USER_HOME$/Projects/linda-github/app/applications/donatoni/code/donatoni-hub-ui/frontend/containers/router/index.tsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/donatoni/code/donatoni-hub-ui/frontend/containers/router/index.tsx" />
+      <jump line="131" column="14" filename="$USER_HOME$/Projects/linda-github/app/applications/donatoni/code/donatoni-hub-ui/frontend/containers/router/index.tsx" />
+      <jump line="195" column="26" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto/Magento_Catalog/templates/product/list/items.phtml" />
+      <jump line="220" column="72" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto/Magento_Catalog/templates/product/list/items.phtml" />
+      <jump line="33" column="28" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto_child/etc/view.xml" />
+      <jump line="213" column="40" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto_child/etc/view.xml" />
+      <jump line="212" column="39" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto_child/etc/view.xml" />
+      <jump line="147" column="54" filename="$USER_HOME$/PhpstormProjects/caleba/app/code/Indaweb/InfiniteScroll/view/frontend/templates/product/list.phtml" />
+      <jump line="76" column="32" filename="$USER_HOME$/PhpstormProjects/caleba/app/code/Indaweb/InfiniteScroll/view/frontend/templates/product/list.phtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/caleba/app/design/frontend/Smartwave/porto_child/Magento_Catalog/templates/product/list.phtml" />
+      <jump line="96" column="74" filename="$USER_HOME$/PhpstormProjects/caleba/app/code/Indaweb/InfiniteScroll/view/frontend/templates/product/list.phtml" />
+      <jump line="53" column="6" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo-ui/frontend/components/register/index.tsx" />
+      <jump line="42" column="45" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo-ui/frontend/components/toast/store.ts" />
+      <jump line="24" column="13" filename="$USER_HOME$/Projects/linda-github/app/applications/esastudio/code/management/frontend/document-list/utils/csv-to-json.ts" />
+      <jump line="73" column="30" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo-ui/frontend/components/report/rds-activities-fields/rds-activities-technicians/index.tsx" />
+      <jump line="131" column="22" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/entities/report.ts" />
+      <jump line="28" column="2" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="34" column="41" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/linda-github/app/applications/gemmo/code/gemmo/interceptor/user-employee-schema.ts" />
+      <jump line="15" column="5" filename="$USER_HOME$/Projects/linda-github/app/applications/esastudio/code/management/frontend/document-list/utils/filter-new-employees.ts" />
+      <jump line="216" column="33" filename="$USER_HOME$/Projects/linda-github/app/code/frontend/frontend/index.ts" />
+      <jump line="3" column="21" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="123" column="14" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="149" column="16" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="185" column="15" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="175" column="6" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="153" column="16" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="249" column="11" filename="$USER_HOME$/Projects/linda-github/app/code/i18n/data/languages.json" />
+      <jump line="63" column="19" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="31" column="29" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/linda/app/code/i18n/index.ts" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/linda/app/code/i18n/document-modifiers/translatable/make-translation-merge-pipeline.spec.ts" />
+      <jump line="55" column="6" filename="$USER_HOME$/Projects/linda/app/code/i18n/document-modifiers/translatable/make-translation-merge-pipeline.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/linda/app/builds/donatoni/config.ts" />
+      <jump line="51" column="80" filename="$USER_HOME$/Projects/linda/app/code/i18n/transport/index.ts" />
+      <jump line="317" column="71" filename="$USER_HOME$/Projects/linda/app/applications/esastudio/code/management/certificati/template/index.tsx" />
+      <jump line="19" column="35" filename="$USER_HOME$/Projects/linda/app/applications/esastudio/code/management/certificati/utils/get-formatted-date.ts" />
+      <jump line="867" column="23" filename="$USER_HOME$/Projects/ke-showroom/src/components/load-images-by-image/images-by-position.ts" />
+      <jump line="104" column="20" filename="$USER_HOME$/Projects/linda/app/applications/gemmo/code/gemmo/document-modifier/send-rds/index.ts" />
+      <jump line="165" column="6" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="27" column="46" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="87" column="7" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="90" column="60" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="98" column="67" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="168" column="25" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="152" column="34" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="158" column="6" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="157" column="8" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="156" column="14" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="149" column="56" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="54" column="19" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="93" column="28" filename="$USER_HOME$/Projects/linda/app/code/content-manager-ui/frontend/components/document-form/inputs/array-input/render.tsx" />
+      <jump line="23" column="34" filename="$USER_HOME$/Projects/linda/app/applications/gemmo/code/gemmo/entities/report/get-user-value/index.spec.ts" />
+      <jump line="23" column="1" filename="$USER_HOME$/Projects/linda/app/applications/gemmo/code/gemmo/transport/gemmo-request/make-gemmo-request.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/linda/app/applications/gemmo/code/gemmo/transport/gemmo-request/make-gemmo-request.ts" />
+      <jump line="56" column="16" filename="$USER_HOME$/Projects/linda/app/applications/smettintempo/code/smettintempo/entities/cigarette.ts" />
+      <jump line="33" column="16" filename="$USER_HOME$/Projects/linda/app/applications/smettintempo/code/smettintempo-ui/frontend/components/dashboard/style.sass" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>riccardo@indaweb.com</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzb2xpZFw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA/IHBvc2l0aW9uID09PSAnYmVmb3JlJyA/IFsuLi5hY2MsIChwcmV2U3RhdGUgPz8gW10pW2RyYWdJbmRleF0sIGl0ZW1dCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNoZWNrRW1haWxUcmFuc3BvcnQgPSBhc3luYyAoKSA9PiB7CiAgLy8gIElzIGRlZmF1bHQgZW1haWwgdHJhbnNwb3J0IHNldHRlZD8KICAvLyAgaWYgeWVzIG9rCiAgLy8gIElGIE5PIC0+IENSRUFURSBhIG5ldyB0cmFuc3BvcnQgYW5kIHNldCBpdCBhcyBkZWZhdWx0CiAgLy8gICAgU01UUCBob3N0OiBzbXRwLm9mZmljZTM2NS5jb20KICAvLyAgICBFbmNyeXB0aW9uOiBUTFMKICAvLyAgICBTTVRQIHBvcnQ6IDU4Nwp9Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vICBUT0RPOiBDaGVjayBwZXIgbGEgY3JlYXppb25lIGRpIHVuIGNvbnRhdHRvCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHMK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZXRGb3JtTWVzc2FnZSh7CiAgICAgICAgICAgIHRleHQ6ICJRdWFsY29zYSDDqCBhbmRhdG8gc3RvcnRvLiIsCiAgICAgICAgICAgIGNvbG9yOiAiI0UwMjAyMCIsCiAgICAgICAgICB9KTsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICBzZXRGb3JtTWVzc2FnZSh7IHRleHQ6ICIiLCBjb2xvcjogIiIgfSk7CiAgICAgICAgICB9LCA0MDAwKTsKICAgICAgICAgIHNldFN1Ym1pdHRpbmcoZmFsc2UpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbWFpbCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWN0KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBhd2FpdCBjaGVja0VtYWlsVHJhbnNwb3J0KCk7Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxzb2xpZFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzb2xpZFw+</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

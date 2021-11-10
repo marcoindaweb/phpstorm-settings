@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="panolens" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_pchen66_panolens.js_dev_build_panolens.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_pchen66_panolens.js_dev_build_panolens.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="three" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pchen66.github.io_js_three_three.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pchen66.github.io_js_three_three.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

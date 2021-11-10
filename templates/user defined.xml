@@ -1,0 +1,8 @@
+<templateSet group="user defined">
+  <template name="pure" value="/*#__PURE__*/ " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
