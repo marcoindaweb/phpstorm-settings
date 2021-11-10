@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="167.172.100.228" id="05b15d1f-46c6-4e2d-b843-fec8ad92ace6" keyPath="$USER_HOME$/.ssh/tonello-ssh" port="22" customName="TonelloLive" nameFormat="CUSTOM">
+        <option name="customName" value="TonelloLive" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="165.22.89.21" id="48f1bef6-69be-4314-860b-5a7eb28b55f9" port="22" customName="Birralife" nameFormat="CUSTOM">
+        <option name="customName" value="Birralife" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="46.254.37.222" id="ba053533-0fde-4223-8030-9c9a479e52e2" port="10112" customName="RondaDesign" nameFormat="CUSTOM">
+        <option name="customName" value="RondaDesign" />
+      </sshConfig>
+      <sshConfig host="caleba.it" id="94671a16-9297-48bf-b1c1-16d2d8c144dc" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Caleba" nameFormat="CUSTOM">
+        <option name="customName" value="Caleba" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
