@@ -1,0 +1,46 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9a9a7bd-35a0-491c-be8a-88d029f369a3" name="TonelloLive" url="http://167.172.100.228">
+        <fileTransfer host="167.172.100.228" port="22" privateKey="$USER_HOME$/.ssh/tonello-ssh" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ce03169e-8359-4d4a-b7e0-7b0b07349373" name="Birralife" url="http://165.22.89.21">
+        <fileTransfer host="165.22.89.21" port="22" rootFolder="/home/webadmin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fae3d708-52f9-4685-8a01-002c7a396645" name="RondaDesign" url="http://46.254.37.222">
+        <fileTransfer host="46.254.37.222" port="10112" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10112" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="af7a656a-473d-4b80-a4ce-78d76e143e59" name="Ronda" url="http://46.254.37.222">
+        <fileTransfer host="46.254.37.222" port="10112" rootFolder="/home/rondadesign" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10112" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e402cc2a-36cd-469e-b09a-b9d6e4caa084" name="Caleba" url="http://caleba.it">
+        <fileTransfer host="caleba.it" port="22" privateKey="$USER_HOME$/.ssh/tonello2-ssh" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
