@@ -9,6 +9,7 @@
       <mapping pattern="apple-developer-merchantid-domain-association" type="PLAIN_TEXT" />
       <mapping pattern="noCartRedirect.php" type="PLAIN_TEXT" />
       <mapping pattern="PapaPacco" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".eslingignore" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
