@@ -10,7 +10,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="46.254.37.222" id="ba053533-0fde-4223-8030-9c9a479e52e2" port="10112" customName="RondaDesign" nameFormat="CUSTOM">
         <option name="customName" value="RondaDesign" />
       </sshConfig>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="caleba.it" id="94671a16-9297-48bf-b1c1-16d2d8c144dc" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Caleba" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="caleba.it" id="94671a16-9297-48bf-b1c1-16d2d8c144dc" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Caleba" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Caleba" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="stefanifratelli.it" id="b00cf919-ebde-4cb8-8e71-9aa52f189384" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Stefani" nameFormat="CUSTOM" username="root">
