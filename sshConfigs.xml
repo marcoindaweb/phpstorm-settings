@@ -16,6 +16,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="stefanifratelli.it" id="b00cf919-ebde-4cb8-8e71-9aa52f189384" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Stefani" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Stefani" />
       </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="caleba.it" id="bd0c70fd-bdde-43dd-80ef-2d1d89778710" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Caleba" nameFormat="CUSTOM">
+        <option name="customName" value="Caleba" />
+      </sshConfig>
     </configs>
   </component>
 </application>
