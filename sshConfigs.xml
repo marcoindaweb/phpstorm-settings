@@ -4,7 +4,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="167.172.100.228" id="05b15d1f-46c6-4e2d-b843-fec8ad92ace6" keyPath="$USER_HOME$/.ssh/tonello-ssh" port="22" customName="TonelloLive" nameFormat="CUSTOM">
         <option name="customName" value="TonelloLive" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="165.22.89.21" id="48f1bef6-69be-4314-860b-5a7eb28b55f9" port="22" customName="Birralife" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="46.254.39.78" id="48f1bef6-69be-4314-860b-5a7eb28b55f9" keyPath="$USER_HOME$/.ssh/tonello2-ssh" port="22" customName="Birralife" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Birralife" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="46.254.37.222" id="ba053533-0fde-4223-8030-9c9a479e52e2" port="10112" customName="RondaDesign" nameFormat="CUSTOM">
