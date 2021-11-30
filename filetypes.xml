@@ -16,6 +16,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="phtml" type="PLAIN_TEXT" />
+      <mapping pattern="get-dashboard-values-by-roles" type="TypeScript" />
       <mapping pattern="calculations" type="TypeScript" />
       <mapping pattern="menuMobile" type="Vue.js" />
       <mapping pattern="loginTextField" type="Vue.js" />
