@@ -80,19 +80,22 @@
       <file name="$USER_HOME$/Projects/linda/app/builds/gemmo/config.ts" timestamp="1636532301974">
         <mark key="[" line="37" column="111" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/package.json" timestamp="1647849468658">
+      <file name="$USER_HOME$/Projects/linotticacalendar/package.json" timestamp="1647866971854">
         <mark key="[" line="30" column="26" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/nuxt.config.js" timestamp="1647867138358">
+        <mark key="[" line="81" column="1" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linda/app/builds/ke-showroom/config.ts" timestamp="1636540612038">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="29" column="55" />
         <mark key="^" line="29" column="55" />
         <mark key="." line="29" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/tsconfig.fronted.json" timestamp="1636530377448">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linda/app/code/email/service/actions/send-email.ts" timestamp="1636530815701">
         <mark key="[" line="27" column="6" />
@@ -266,8 +269,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;^7.0.0-bridge.0&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJyb3dzZXJCYXNlVVJMOiAnbG9jYWxob3N0OjMwMDAnCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -287,7 +290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;^7.0.0-bridge.0&quot;</text>
+        <text>'http://167.172.103.87'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb2xpZFw+</text>
@@ -296,34 +299,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA/IHBvc2l0aW9uID09PSAnYmVmb3JlJyA/IFsuLi5hY2MsIChwcmV2U3RhdGUgPz8gW10pW2RyYWdJbmRleF0sIGl0ZW1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyb3dzZXJCYXNlVVJMOiAnbG9jYWxob3N0OjMwMDAnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNoZWNrRW1haWxUcmFuc3BvcnQgPSBhc3luYyAoKSA9PiB7CiAgLy8gIElzIGRlZmF1bHQgZW1haWwgdHJhbnNwb3J0IHNldHRlZD8KICAvLyAgaWYgeWVzIG9rCiAgLy8gIElGIE5PIC0+IENSRUFURSBhIG5ldyB0cmFuc3BvcnQgYW5kIHNldCBpdCBhcyBkZWZhdWx0CiAgLy8gICAgU01UUCBob3N0OiBzbXRwLm9mZmljZTM2NS5jb20KICAvLyAgICBFbmNyeXB0aW9uOiBUTFMKICAvLyAgICBTTVRQIHBvcnQ6IDU4Nwp9Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICBUT0RPOiBDaGVjayBwZXIgbGEgY3JlYXppb25lIGRpIHVuIGNvbnRhdHRvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHMK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZXRGb3JtTWVzc2FnZSh7CiAgICAgICAgICAgIHRleHQ6ICJRdWFsY29zYSDDqCBhbmRhdG8gc3RvcnRvLiIsCiAgICAgICAgICAgIGNvbG9yOiAiI0UwMjAyMCIsCiAgICAgICAgICB9KTsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICBzZXRGb3JtTWVzc2FnZSh7IHRleHQ6ICIiLCBjb2xvcjogIiIgfSk7CiAgICAgICAgICB9LCA0MDAwKTsKICAgICAgICAgIHNldFN1Ym1pdHRpbmcoZmFsc2UpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbWFpbCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWN0KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNoZWNrRW1haWxUcmFuc3BvcnQgPSBhc3luYyAoKSA9PiB7CiAgLy8gIElzIGRlZmF1bHQgZW1haWwgdHJhbnNwb3J0IHNldHRlZD8KICAvLyAgaWYgeWVzIG9rCiAgLy8gIElGIE5PIC0+IENSRUFURSBhIG5ldyB0cmFuc3BvcnQgYW5kIHNldCBpdCBhcyBkZWZhdWx0CiAgLy8gICAgU01UUCBob3N0OiBzbXRwLm9mZmljZTM2NS5jb20KICAvLyAgICBFbmNyeXB0aW9uOiBUTFMKICAvLyAgICBTTVRQIHBvcnQ6IDU4Nwp9Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vICBUT0RPOiBDaGVjayBwZXIgbGEgY3JlYXppb25lIGRpIHVuIGNvbnRhdHRvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHMK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZXRGb3JtTWVzc2FnZSh7CiAgICAgICAgICAgIHRleHQ6ICJRdWFsY29zYSDDqCBhbmRhdG8gc3RvcnRvLiIsCiAgICAgICAgICAgIGNvbG9yOiAiI0UwMjAyMCIsCiAgICAgICAgICB9KTsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICBzZXRGb3JtTWVzc2FnZSh7IHRleHQ6ICIiLCBjb2xvcjogIiIgfSk7CiAgICAgICAgICB9LCA0MDAwKTsKICAgICAgICAgIHNldFN1Ym1pdHRpbmcoZmFsc2UpOw==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbWFpbCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWN0KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhd2FpdCBjaGVja0VtYWlsVHJhbnNwb3J0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
