@@ -80,25 +80,43 @@
       <file name="$USER_HOME$/Projects/linda/app/builds/gemmo/config.ts" timestamp="1636532301974">
         <mark key="[" line="37" column="111" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1647848256850">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/package.json" timestamp="1636530327564">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/app/code/content-manager/document-data/repository.ts" timestamp="1636531223098">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/package.json" timestamp="1647849468658">
+        <mark key="[" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/linda/app/builds/ke-showroom/config.ts" timestamp="1636540612038">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="29" column="55" />
         <mark key="^" line="29" column="55" />
         <mark key="." line="29" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/tsconfig.fronted.json" timestamp="1636530377448">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/code/email/service/actions/send-email.ts" timestamp="1636530815701">
+        <mark key="[" line="27" column="6" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1636531080707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/smettintempo/code/smettintempo/index.ts" timestamp="1636534266283">
+        <mark key="[" line="28" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact.ts" timestamp="1636540766400">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1647848256850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linda/app/code/content-manager/document-data/repository.ts" timestamp="1636531223098">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ke-showroom/src/components/popups/popup-form.tsx" timestamp="1636540583997">
         <mark key="[" line="18" column="3" />
@@ -112,15 +130,15 @@
         <mark key="^" line="867" column="31" />
         <mark key="." line="867" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/package.json" timestamp="1647849426104">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/index.ts" timestamp="1636534286289">
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/tsconfig.fronted.json" timestamp="1636530377448">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact/email/calculations/create-contact-email.ts" timestamp="1636540713569">
         <mark key="[" line="51" column="46" />
@@ -128,25 +146,10 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="51" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/linda/app/code/email/service/actions/send-email.ts" timestamp="1636530815701">
-        <mark key="[" line="27" column="6" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1636531080707">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/linda/tsconfig.json" timestamp="1636530406040">
         <mark key="[" line="32" column="1" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/app/applications/smettintempo/code/smettintempo/index.ts" timestamp="1636534266283">
-        <mark key="[" line="28" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact.ts" timestamp="1636540766400">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact/email/actions/send-contact-email.ts" timestamp="1636540760348">
         <mark key="[" line="14" column="1" />
@@ -263,8 +266,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;^7.0.0-bridge.0&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,7 +287,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>riccardo@indaweb.com</text>
+        <text>&quot;^7.0.0-bridge.0&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb2xpZFw+</text>
