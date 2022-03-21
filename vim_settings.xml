@@ -77,84 +77,83 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/linotticacalendar/package.json" timestamp="1647866971854">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="23" />
+      <file name="/a.dummy" timestamp="1647874102050">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/nuxt.config.js" timestamp="1647867138358">
-        <mark key="[" line="81" column="1" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/categories.vue" timestamp="1647869592324">
-        <mark key="[" line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/index.vue" timestamp="1647870776830">
-        <mark key="[" line="65" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/store/settings.js" timestamp="1647871560630">
-        <mark key="[" line="114" column="38" />
-        <mark key="]" line="119" column="16" />
-        <mark key="^" line="119" column="16" />
-        <mark key="." line="119" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/routes/api.php" timestamp="1647870837616">
-        <mark key="[" line="67" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/database/migrations/2020_04_09_083925_create_calendars_table.php" timestamp="1647872208793">
-        <mark key="[" line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/EventController.php" timestamp="1647872503395">
-        <mark key="[" line="94" column="36" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/EventController.php" timestamp="1647874060543">
+        <mark key="[" line="97" column="19" />
         <mark key="]" line="94" column="36" />
         <mark key="^" line="94" column="36" />
         <mark key="." line="94" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/store/event.js" timestamp="1647869903355">
-        <mark key="[" line="405" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextController.php" timestamp="1647872278891">
-        <mark key="[" line="10" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/CalendarController.php" timestamp="1647870328127">
-        <mark key="[" line="48" column="1" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/CalendarController.php" timestamp="1647873647618">
+        <mark key="[" line="15" column="5" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/blocks/settingsTreeview.vue" timestamp="1647869452928">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/blocks/settingsTreeview.vue" timestamp="1647876746042">
+        <mark key="[" line="63" column="1" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextControllerInterface.php" timestamp="1647870499409">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Client.php" timestamp="1647873799221">
+        <mark key="[" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/ScheduleTimes.vue" timestamp="1647868171178">
-        <mark key="[" line="15" column="23" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
+        <mark key="[" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/database/migrations/2022_03_21_151552_create_message_table.php" timestamp="1647872201239">
-        <mark key="[" line="15" column="28" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/categories.vue" timestamp="1647880674058">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/package.json" timestamp="1647872188192">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/index.vue" timestamp="1647879290252">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/MessageText.php" timestamp="1647870304781">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyClientDialog.vue" timestamp="1647881744696">
+        <mark key="[" line="98" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/message.vue" timestamp="1647870710924">
-        <mark key="[" line="21" column="9" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/store/settings.js" timestamp="1647881357117">
+        <mark key="[" line="225" column="27" />
+        <mark key="]" line="126" column="14" />
+        <mark key="^" line="225" column="27" />
+        <mark key="." line="126" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/Schedule.vue" timestamp="1647868481656">
-        <mark key="[" line="142" column="1" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/routes/api.php" timestamp="1647881333126">
+        <mark key="[" line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/plugins/init.js" timestamp="1647848563530">
-        <mark key="[" line="20" column="6" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/database/migrations/2022_03_21_160245_create_message_texts_table.php" timestamp="1647874983243">
+        <mark key="[" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/store/operator.js" timestamp="1647877156405" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/operators.vue" timestamp="1647878557338">
+        <mark key="[" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextController.php" timestamp="1647882030250">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextControllerInterface.php" timestamp="1647875129327">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/database/migrations/2022_03_21_151552_create_message_table.php" timestamp="1647874978990">
+        <mark key="[" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/ClientControllerInterface.php" timestamp="1647873698523" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyMessageDialog.vue" timestamp="1647881727665">
+        <mark key="[" line="96" column="1" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/message.vue" timestamp="1647881177876">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -263,7 +262,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuU0hPV19NRVNTQUdFKCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -283,7 +282,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'http://167.172.103.87'</text>
+        <text>updateOperator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb2xpZFw+</text>
@@ -292,34 +291,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA/IHBvc2l0aW9uID09PSAnYmVmb3JlJyA/IFsuLi5hY2MsIChwcmV2U3RhdGUgPz8gW10pW2RyYWdJbmRleF0sIGl0ZW1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuU0hPV19NRVNTQUdFKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHsKICAgICAgICAgICAgICAgICAgICAuLi4odGhpcy5tZXNzYWdlKSwKICAgICAgICAgICAgICAgICAgICB0ZXh0OiB0aGlzLm1lc3NhZ2VUZXh0CiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtZXRob2RzOiB7CgogICAgICAgIC8vIH0sCiAgICAgICAgLy8gYXN5bmMgYmVmb3JlTW91bnQoKSB7CiAgICAgICAgLy8gICAgCiAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q3VycmVudE1lc3NhZ2UoKSB7CiAgICAgICAgJG1lc3NhZ2UgPQogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aXRlbS50eXBlfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLm1hcEFjdGlvbnMoewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
   </component>
