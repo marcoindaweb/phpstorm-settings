@@ -80,7 +80,7 @@
       <file name="$USER_HOME$/Projects/linda/app/builds/gemmo/config.ts" timestamp="1636532301974">
         <mark key="[" line="37" column="111" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1638267614894">
+      <file name="/GraphQL.result.json" timestamp="1647848256850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linda/package.json" timestamp="1636530327564">
@@ -148,26 +148,14 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/linda/app/code/content-manager/transport/http/routes.ts" timestamp="1636476317418">
-        <mark key="[" line="296" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/app/applications/donatoni/code/donatoni-hub/package.json" timestamp="1636476212490">
-        <mark key="[" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/linda/app/applications/cna/code/news/entities/modulistica.ts" timestamp="1636529979457">
-        <mark key="[" line="48" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/entities/contact/email/actions/send-contact-email.ts" timestamp="1636540760348">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="18" column="36" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linda/app/applications/ke-showroom/code/showroom/package.json" timestamp="1636476587695">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/plugins/init.js" timestamp="1647848563530">
+        <mark key="[" line="20" column="6" />
       </file>
     </filemarks>
     <jumps>
