@@ -144,10 +144,10 @@
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
         <mark key="[" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647939545479">
-        <mark key="[" line="450" column="9" />
-        <mark key="]" line="410" column="0" />
-        <mark key="." line="410" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647940333578">
+        <mark key="[" line="441" column="0" />
+        <mark key="]" line="445" column="0" />
+        <mark key="." line="445" column="0" />
         <mark key="^" line="410" column="12" />
       </file>
     </filemarks>
@@ -292,28 +292,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUuZXZlbnRTb3J0ZXIsIHN0YXRlLmxpc3RUaW1lcywgU29ydHMuRnVsbERheSwgU29ydHMuU3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdEYXkgPSBhcm91bmREYXkuYWRkKCdkYXknLCAyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHR5cGUuaWQgPT09ICdXJykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZS50eXBlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKG5ld0RheSwgdHlwZS5mb2N1cykKICAgICAgZGVidWdnZXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKHR5cGUudHlwZSkKCiAgICAgIGxldCBuZXdEYXkgPSBhcm91bmREYXkKICAgICAgaWYgKHR5cGUuaWQgPT09ICdYJyB8fCB0eXBlLmlkID09PSAnVycpIHsKICAgICAgICBuZXdEYXkgPSBhcm91bmREYXkuYWRkKCdkYXknLCA3KQogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKG5ld0RheSkKICAgICAgZGVidWdnZXI=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUuZXZlbnRTb3J0ZXIsIHN0YXRlLmxpc3RUaW1lcywgU29ydHMuRnVsbERheSwgU29ydHMuU3RhcnQpCg==</text>
       </register>
     </registers>
   </component>
