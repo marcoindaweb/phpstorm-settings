@@ -144,11 +144,11 @@
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
         <mark key="[" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647937045226">
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="449" column="0" />
-        <mark key="." line="449" column="0" />
-        <mark key="^" line="450" column="23" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647939545479">
+        <mark key="[" line="450" column="9" />
+        <mark key="]" line="410" column="0" />
+        <mark key="." line="410" column="0" />
+        <mark key="^" line="410" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -257,7 +257,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -277,7 +277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.format('dddd, D MMMM')</text>
+        <text encoding="base64">IHx8IHR5cGUuaWQgPT09ICdXJw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb2xpZFw+</text>
@@ -286,34 +286,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA/IHBvc2l0aW9uID09PSAnYmVmb3JlJyA/IFsuLi5hY2MsIChwcmV2U3RhdGUgPz8gW10pW2RyYWdJbmRleF0sIGl0ZW1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJvdW5kRGF5LCBtb21lbnQoKS5sb2NhbGUoJ2l0JykpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUuZXZlbnRTb3J0ZXIsIHN0YXRlLmxpc3RUaW1lcywgU29ydHMuRnVsbERheSwgU29ydHMuU3RhcnQpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZS50eXBlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKHR5cGUudHlwZSkKCiAgICAgIGxldCBuZXdEYXkgPSBhcm91bmREYXkKICAgICAgaWYgKHR5cGUuaWQgPT09ICdYJyB8fCB0eXBlLmlkID09PSAnVycpIHsKICAgICAgICBuZXdEYXkgPSBhcm91bmREYXkuYWRkKCdkYXknLCA3KQogICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZSwgZm9yY2UsIGZvcmNlVHlwZSkK</text>
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKG5ld0RheSkKICAgICAgZGVidWdnZXI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuU0hPV19NRVNTQUdFKCkK</text>
+        <text encoding="base64">ICAgICAgaWYgKAo=</text>
       </register>
     </registers>
   </component>
