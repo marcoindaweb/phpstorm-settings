@@ -114,11 +114,11 @@
         <mark key="^" line="178" column="20" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647949006904">
-        <mark key="[" line="966" column="16" />
-        <mark key="]" line="446" column="0" />
-        <mark key="^" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647950437706">
+        <mark key="[" line="955" column="0" />
+        <mark key="]" line="955" column="0" />
+        <mark key="^" line="962" column="14" />
+        <mark key="." line="955" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/node_modules/dayspan/typings/Units.d.ts" timestamp="1647948078254">
         <mark key="[" line="9" column="0" />
@@ -258,7 +258,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -287,34 +287,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA/IHBvc2l0aW9uID09PSAnYmVmb3JlJyA/IFsuLi5hY2MsIChwcmV2U3RhdGUgPz8gW10pW2RyYWdJbmRleF0sIGl0ZW1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZSkK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coY2FsZW5kYXIpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5jYWxlbmRhcikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jYWxlbmRhci5kYXlzLnNldChjYWxlbmRhckRheXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5jYWxlbmRhcikK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FsZW5kYXJEYXlzKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5jYWxlbmRhcikK</text>
       </register>
     </registers>
   </component>
