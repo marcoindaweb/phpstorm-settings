@@ -144,10 +144,10 @@
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
         <mark key="[" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647940333578">
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/CalendarApp.vue" timestamp="1647941983137">
+        <mark key="[" line="482" column="35" />
+        <mark key="]" line="482" column="34" />
+        <mark key="." line="482" column="34" />
         <mark key="^" line="410" column="12" />
       </file>
     </filemarks>
@@ -256,8 +256,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx8IHRoaXMuY3VycmVudFR5cGUgPT09ICdYJw==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -277,7 +277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHR5cGUuaWQgPT09ICdXJw==</text>
+        <text encoding="base64">IHx8IHRoaXMuY3VycmVudFR5cGUgPT09ICdYJw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb2xpZFw+</text>
