@@ -77,6 +77,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextController.php" timestamp="1647882030250">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/node_modules/moment/moment.d.ts" timestamp="1647947209211">
+        <mark key="[" line="453" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/categories.vue" timestamp="1647880674058">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="64" column="0" />
@@ -90,6 +98,9 @@
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyClientDialog.vue" timestamp="1647881744696">
         <mark key="[" line="98" column="49" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1648226115589">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/store/settings.js" timestamp="1647881357117">
         <mark key="[" line="225" column="27" />
         <mark key="]" line="126" column="14" />
@@ -102,11 +113,27 @@
       <file name="$USER_HOME$/Projects/linotticacalendar/routes/api.php" timestamp="1647881333126">
         <mark key="[" line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyMessageDialog.vue" timestamp="1647881727665">
+        <mark key="[" line="96" column="1" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/assets/defaults.js" timestamp="1647948122069">
+        <mark key="[" line="24" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/operators.vue" timestamp="1647878557338">
         <mark key="[" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/message.vue" timestamp="1647881177876">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/Calendar.vue" timestamp="1647942800364">
         <mark key="[" line="135" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
+        <mark key="[" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/components/DaysView.vue" timestamp="1647942924433">
         <mark key="[" line="177" column="1" />
@@ -122,34 +149,6 @@
       </file>
       <file name="$USER_HOME$/Projects/linotticacalendar/node_modules/dayspan/typings/Units.d.ts" timestamp="1647948078254">
         <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/app/Http/Controllers/MessageTextController.php" timestamp="1647882030250">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="10" column="57" />
-        <mark key="." line="10" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/node_modules/moment/moment.d.ts" timestamp="1647947209211">
-        <mark key="[" line="453" column="27" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1647934784549">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/node_modules/dayspan/typings/Day.d.ts" timestamp="1647947198643" />
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyMessageDialog.vue" timestamp="1647881727665">
-        <mark key="[" line="96" column="1" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/assets/defaults.js" timestamp="1647948122069">
-        <mark key="[" line="24" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/categories/message.vue" timestamp="1647881177876">
-        <mark key="[" line="47" column="1" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/linotticacalendar/frontend/components/settings/dialogs/modifyOperatorDialog.vue" timestamp="1647879925856">
-        <mark key="[" line="39" column="22" />
       </file>
     </filemarks>
     <jumps>
